@@ -46,7 +46,7 @@ I am organizing R codes by the tasks.
 
 ## Statistical Tests
 
-- PCA
+- [PCA](https://github.com/yooonjiwon/R/blob/main/PCA.md)
 
 
 
