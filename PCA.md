@@ -1,5 +1,5 @@
 # Principal Component Analysis
-[Websites for detail](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/)
+[A website for detail](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/)
 
 ## Packages
 ```r
